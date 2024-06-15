@@ -32,18 +32,18 @@ Este projeto demonstra a implementação de dois microserviços utilizando Sprin
 ## Tecnologias Utilizadas
 
 - **Backend:**
-  - [Spring Boot](https://spring.io/projects/spring-boot)
-  - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
-  - [Spring AMQP](https://spring.io/projects/spring-amqp)
+  - ![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.6.3-green?logo=spring)
+  - ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-2.6.3-green?logo=spring)
+  - ![Spring AMQP](https://img.shields.io/badge/Spring_AMQP-2.6.3-green?logo=spring)
   
 - **Banco de Dados:**
-  - [H2Database](https://www.h2database.com/)
+  - ![H2Database](https://img.shields.io/badge/H2Database-1.4.200-blue?logo=h2)
 
 - **Mensageria:**
-  - [RabbitMQ](https://www.rabbitmq.com/)
+  - ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3.10.6-orange?logo=rabbitmq)
 
 - **Email:**
-  - [Google SMTP](https://support.google.com/mail/answer/7126229?hl=pt-BR)
+  - ![Google SMTP](https://img.shields.io/badge/Google_SMTP-Envio_de_Emails-red?logo=gmail)
 
 ## Pré-requisitos
 
